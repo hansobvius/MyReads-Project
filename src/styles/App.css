@@ -248,6 +248,13 @@ button:active {
   margin: 15px 50px;
 }
 
+.book-title-found,
+.book-authors-found {
+  font-size: 0.7em;
+  font-style: italic;
+  color: #ada9a9;
+}
+
 .no-image-found {
   text-align: center;
   font-family: sans-serif;
