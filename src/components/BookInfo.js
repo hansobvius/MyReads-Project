@@ -2,10 +2,8 @@ import React from 'react';
 import '../styles/App.css';
 
 export default class BookInfo extends React.Component {
-    render() {
-        
+    render() {       
         const { book, fromDetails } = this.props;
-        console.log(book)
         return (
             <div>
                 <div className={book.title
