@@ -1,6 +1,6 @@
 # MyReads Project
 
-This is the master template for the final assessment project for Udacity's React Fundamentals course. This project has the purpose of offering the user a catalog of books through google api. In addition the user can choose the book apar directs it to the shelf of his preference. In addition, the project has a page that shows the details of the books of the catalog
+This is the master template for the final final project for Udacity's React Fundamentals course. This project has the purpose of offering the user a catalog of books through google api. In addition the user can choose the book apar directs it to the shelf of his preference. In addition, the project has a page that shows the details of the books of the catalog
 
 Of course, you are free to start this project from scratch if you wish! Just be sure to use [Create React App](https://github.com/facebookincubator/create-react-app) to bootstrap the project.
 
