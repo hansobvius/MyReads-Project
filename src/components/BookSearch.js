@@ -37,7 +37,7 @@ class BookSearch extends Component {
                             <Books books={this.props.books} changeShelfBook={this.props.changeShelfBook} />
                         )}
                         {((this.props.isBookOnArray) && (this.props.books.length === 0) && (this.props.searchValue !== '')) && (
-                            <h1 className="no-search-result">No Books Founded</h1>
+                            <h1 className="no-search-result">No Book Found</h1>
                         )}
                     </div>
                 </div>
