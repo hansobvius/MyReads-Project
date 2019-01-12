@@ -18,7 +18,10 @@ export default class BookInfo extends React.Component {
                 <div className={book.authors
                     ? 'book-authors'
                     : 'book-authors-found'}>
-                    {book.authors ? book.authors : 'no author found...'}</div>
+                    {book.authors 
+                        ? book.authors 
+                        : 'no author found...'}
+                </div>
                 {fromDetails && (
                     <div>
                         <div className={book.publishedDate
@@ -31,7 +34,10 @@ export default class BookInfo extends React.Component {
                         <div className={book.description
                             ? 'book-description'
                             : 'book-description-found'}>
-                            {book.description ? book.description : 'no description found...'}</div>
+                            {book.description 
+                                ? book.description 
+                                : 'no description found...'}
+                        </div>
                     </div>
                 )}
             </div>
