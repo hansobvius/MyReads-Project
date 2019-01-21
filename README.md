@@ -27,7 +27,7 @@ To get started just follow the steps:
     │               └── Books # display the book component wich is used by the three component's above
     │                   ├── BooksCover # used for display the book cover
     │                   ├── BooksInfo # display info  like the title, author, release date and description(the last both for details component)
-    │                   └── BookOprions # display the choose options for the preference shelfe managment
+    │                   └── BookOptions # display the choose options for the preference shelfe managment
     ├── App.test.js # Used for testing. Provided with Create React App. Testing is encouraged, but not required.
     ├── BooksAPI.js # A JavaScript API for the provided Udacity backend. Instructions for the methods are below.
     ├── icons # Helpful images for your app. Use at your discretion.
