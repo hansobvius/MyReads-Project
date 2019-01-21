@@ -38,8 +38,4 @@ To get started just follow the steps:
     └── index.js # You should not need to modify this file. It is used for DOM rendering only.
 ```
 
-## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
